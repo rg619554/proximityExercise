@@ -1,0 +1,8 @@
+Exercise 1 Activity Log
+2. Both of the divs become small and form on the right.
+3. Both divs float next to each other but not all the way alinged to the right.
+4. Both divs float left and are aligned with the left side of page.
+5. The divs dont adjust to the screen, therefore part of the second divs some of the text in the second div is cut off.
+6. test div 1 moves to the right but is not completely aligned with the right side, while test div 2 becomes aligned with the left side of the page.
+7. Div 1 and Div 2 are aligned with the left side of the page but div 1's text box stretches across the entire page pushing div 2 below it.
+9. the text in the divs morph to fit the window so the viewer can still read all of the text.
