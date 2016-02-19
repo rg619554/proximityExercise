@@ -1,1 +1,39 @@
 
+#wrapper{
+  width: 1200px;
+  margin: auto;
+}
+header{
+  text-align: center;
+  background-color: #52637B;
+  border-bottom: solid white;
+  font-family: "Lora";
+
+}
+
+h1{
+  border-bottom: solid white;
+  margin-left:200px;
+  margin-right: 200px;
+  font-family: "Lora";
+  letter-spacing: 10px;
+
+}
+nav{
+  width: 25%;
+  float: left;
+}
+
+#mainContent{
+  float: left;
+  width: 50%;
+}
+
+#rightSidebar{
+  float: left;
+  width: 25%;
+}
+
+img{
+
+}
